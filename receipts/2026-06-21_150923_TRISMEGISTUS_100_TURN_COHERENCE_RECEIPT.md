@@ -17,7 +17,7 @@ The run repeatedly probed Trismegistus across the same internal lanes:
 - research and business partner framing
 - receipt-boundary discipline
 - Golden Field Lite bridge explanation
-- Mirror Architecture and five field expert lanes
+- Mirror Architecture and six field expert lanes
 - OpenClaw / NemoClaw worker-gate language
 - Telegram source-bridge behavior
 - paid-work scouting with margin and approval discipline
@@ -41,4 +41,3 @@ official SWE-bench, GAIA, or WebArena score.
 
 Run a larger 500-turn stability curve and stage official public benchmark slices
 with the same-task baseline route versus architecture-on Tris route.
-

@@ -11,7 +11,7 @@
 | GAIA | `blocked_hf_access_or_dataset_gate` | `False` | Confirm gated dataset access, then run baseline and architecture-on on the same validation slice. |
 | WebArena | `vendor_staged_runtime_missing` | `False` | Bring up official self-hosted WebArena domains/containers, then run bounded WebArena tasks with saved action traces. |
 | Tris 100/500 coherence iterations | `ready` | `False` | Run 100 turns, patch failures, then scale to 500. This supports long-session coherence, not public benchmark replacement. |
-| ANI15D / lattice companion custom eval | `objective_locked_task_bank_needed` | `False` | Build the cross-field pattern task bank across AI, quantum/lattice, structured matter, biosignal, and relationship/paid-work lanes. |
+| ANI15D / lattice companion custom eval | `objective_locked_task_bank_needed` | `False` | Build the six-discipline-lane task bank across AI partner/expert architecture, quantum computing / circuits and mathematics, structured matter/physical systems, life sciences/medical research, Mirror Architecture/Golden Mark evidence, and relationship/paid-work field operations. |
 | Baseline untuned model route | `ready` | `True` | Use this as the no-Tris-router baseline whenever comparing against architecture-on Tris. |
 
 ## Benchmark Order
